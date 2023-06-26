@@ -32,6 +32,5 @@
 
 <p>&nbsp;<img align="center"  height="300"  width="1000"   src="https://github-readme-stats.vercel.app/api?username=mdshakibsami&show_icons=true&locale=en" alt="mdshakibsami" /></p>
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=g)  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mdshakibsami&bg_color=fff&color=00FF00&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
