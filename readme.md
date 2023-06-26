@@ -1,5 +1,5 @@
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRwc3VwdDUzdnlrMzdrd3JqemZlOXZ1MGR6MXIzOWRwMGcwOTI4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" align="center" margine>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRwc3VwdDUzdnlrMzdrd3JqemZlOXZ1MGR6MXIzOWRwMGcwOTI4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" align="center" height="720" width="1280">
 
 <h1 align="center">Hi! This is MD Shakib.</h1>
 <h3 align="center">I'm in Learning Phase...</h3>
