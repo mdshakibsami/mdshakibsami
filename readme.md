@@ -32,3 +32,6 @@
 
 <p>&nbsp;<img align="center"  height="300"  width="1000"   src="https://github-readme-stats.vercel.app/api?username=mdshakibsami&show_icons=true&locale=en" alt="mdshakibsami" /></p>
 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=g)  
+
