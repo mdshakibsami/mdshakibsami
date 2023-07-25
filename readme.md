@@ -25,10 +25,10 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mdshakibsami&bg_color=0D1117&color=00FF00&line=FF0000&point=00FF00&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<p><img align="center" height="300"  width="1000" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdshakibsami&show_icons=true&locale=en&layout=compact" alt="mdshakibsami" /></p>
+<p><img align="center" height="300"  width="2000"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mdshakibsami&bg_color=0D1117&text_color=00ff00&show_icons=true&locale=en&layout=compact" alt="mdshakibsami" /></p>
 
 
-<p><img align="center"  width="1000" src="https://github-readme-streak-stats.herokuapp.com/?user=mdshakibsami&" alt="mdshakibsami" /></p>
+<p><img align="center"  width="1000"  src="https://github-readme-streak-stats.herokuapp.com/?user=mdshakibsami&" alt="mdshakibsami" /></p>
 
 
 
