@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **c++**
+- 🌱 I’m currently learning ***Java***
 
 - ⚡ Fun fact **I understand the programming meme more than programming!**
 
