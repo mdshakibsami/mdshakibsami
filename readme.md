@@ -106,7 +106,7 @@ If you're interested in what I do or just want to connect — feel free to reach
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/1104363740444512378" target="_blank" rel="noopener">
+  <a href="https://discord.com/users/1104363740444512378" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
