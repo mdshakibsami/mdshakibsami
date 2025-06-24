@@ -1,39 +1,100 @@
+ <img alt="html5" src="./githubCover.png" />
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRwc3VwdDUzdnlrMzdrd3JqemZlOXZ1MGR6MXIzOWRwMGcwOTI4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif" align="center" height="500" width="1000">
+## About Me 
 
-<h1 align="center">Hi! This is MD Shakib.</h1>
-<h3 align="center">I'm in Learning Phase...</h3>
+Hi! I'm Md Shakib, a web developer who loves working with the MERN stack to build cool and functional websites.
+
+I started coding to create impactful solutions to real-world problems, and that purpose continues to drive me today. I'm especially passionate about Full Stack Development and enjoy building seamless user experiences from front to back.
+
+Currently, I'm exploring Next.js to expand my skills and stay up to date with modern web technologies.
+
+When I’m not coding, you’ll find me reading articles, digging into documentation, or relaxing with a good anime.
+
+If you're interested in what I do or just want to connect — feel free to reach out!
+
+
+--------------------------------------------------------------------
+
+
+<div style="text-align: center;">
+  <h3 align="center">When I code, I rely on</h3>
+
+  <table align="center">
+    <thead>
+      <tr>
+        <th>💻 <strong>Skills Overview</strong></th>
+        <th><strong>Technologies</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Languages</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" />
+          <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" />
+          <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java" />
+          <img src="https://img.shields.io/badge/-C-333333?style=flat&logo=c" />
+          <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus" />
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Frontend Technologies</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5" />
+          <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3" />
+          <img src="https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss" />
+          <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" />
+          <img src="https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js" />
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Back-End Development</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" />
+          <img src="https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express" />
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Database</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" />
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Tools & Platforms</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" />
+          <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" />
+          <img src="https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase" />
+          <img src="https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens" />
+          <img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" />
+          <img src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 
 
 
 
-- 🌱 I’m currently learning ***Java***
 
-- ⚡ Fun fact **I understand the programming meme more than programming!**
+--------------------------------------------------------------------
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mdshakibsami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdshakibsami" height="30" width="40" /></a><a href="https://codeforces.com/profile/mdshakibsami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mdshakibsami" height="100" width="100" /></a>
-</p>
+ ## Github Stats
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="100" height="100"/> </a>
-</p>
+| Top Languages | GitHub Stats | GitHub Streak |
+|:---:|:---:|:---:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdshakibsami&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdshakibsami&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdshakibsami&theme=transparent&hide_border=true) |
+
+
+--------------------------------------------------------------------
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mdshakibsami&bg_color=0D1117&color=00FF00&line=FF0000&point=00FF00&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<p><img align="center" height="300"  width="2000"  src="https://github-readme-stats.vercel.app/api/top-langs?username=mdshakibsami&bg_color=0D1117&text_color=00ff00&show_icons=true&locale=en&layout=compact" alt="mdshakibsami" /></p>
 
-
-<p><img align="center"  width="1000"  src="https://github-readme-streak-stats.herokuapp.com/?user=mdshakibsami&" alt="mdshakibsami" /></p>
 
 
 
