@@ -91,8 +91,31 @@ If you're interested in what I do or just want to connect — feel free to reach
 
 --------------------------------------------------------------------
 
+<h3 align="center">Find me on social media</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mdshakibsami" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/mdshakibsami" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/mdshakibsami" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/1104363740444512378" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
+--------------------------------------------------------------------
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mdshakibsami&bg_color=0D1117&color=00FF00&line=FF0000&point=00FF00&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+-------------------------------------------------------------------
 
 
 
