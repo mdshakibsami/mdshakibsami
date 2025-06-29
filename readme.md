@@ -52,6 +52,7 @@ If you're interested in what I do or just want to connect — feel free to reach
         <td>
           <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" />
           <img src="https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express" />
+         <img src="https://img.shields.io/badge/-Strapi-333333?style=flat&logo=strapi" />
         </td>
       </tr>
       <tr>
