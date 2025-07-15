@@ -84,11 +84,14 @@ If you're interested in what I do or just want to connect — feel free to reach
 --------------------------------------------------------------------
 
  ## Github Stats
+ 
+ <div class="align-center" style="width: 100%;">
+  <img src="https://raw.githubusercontent.com/suhaib3100/suhaib3100/output/snake.svg" alt="Snake animation" style="width: 100%; display: block;" />
+</div>
 
 | Top Languages | GitHub Stats | GitHub Streak |
 |:---:|:---:|:---:|
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdshakibsami&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdshakibsami&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdshakibsami&theme=transparent&hide_border=true) |
-
 
 --------------------------------------------------------------------
 
@@ -112,7 +115,7 @@ If you're interested in what I do or just want to connect — feel free to reach
   </a>
 </p>
 
---------------------------------------------------------------------
+-------------------------------------------------------------------
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mdshakibsami&bg_color=0D1117&color=00FF00&line=FF0000&point=00FF00&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
