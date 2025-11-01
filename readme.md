@@ -15,7 +15,6 @@ If you’re interested in collaborating on projects or learning more about my wo
 Contact Info <br>
 Email: shakib.sami2.0@gmail.com <br>
 Portfolio: https://mdshakib.netlify.app/ <br>
-Phone: +8801700534241 <br>
 
 --------------------------------------------------------------------
 
