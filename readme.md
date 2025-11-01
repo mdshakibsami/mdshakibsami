@@ -2,15 +2,15 @@
 
 ## About Me 
 
-Hi! I'm Md Shakib, a web developer who loves working with the MERN stack to build cool and functional websites.
+Hi! I'm Md Shakib, Co-Founder & Chief Product Officer at Sirius Lab Ltd, where I lead product strategy, full-stack development, and secure software solutions.
 
-I started coding to create impactful solutions to real-world problems, and that purpose continues to drive me today. I'm especially passionate about Full Stack Development and enjoy building seamless user experiences from front to back.
+I started coding to build impactful solutions to real-world problems, and I continue to combine technical expertise with product vision to create scalable SaaS, web, and mobile applications.
 
-Currently, I'm exploring Next.js to expand my skills and stay up to date with modern web technologies.
+I’m passionate about Full-Stack Development (MERN, Next.js, React Native), cybersecurity, and building user-centered, secure, and production-ready software.
 
-When I’m not coding, you’ll find me reading articles, digging into documentation, or relaxing with a good anime.
+Currently, I’m exploring modern web technologies, AI integration, and innovative product solutions to stay at the forefront of development.
 
-If you're interested in what I do or just want to connect — feel free to reach out!
+If you’re interested in collaborating on projects or learning more about my work, feel free to reach out!
 
 
 --------------------------------------------------------------------
