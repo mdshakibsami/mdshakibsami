@@ -12,7 +12,10 @@ Currently, I’m exploring modern web technologies, AI integration, and innovati
 
 If you’re interested in collaborating on projects or learning more about my work, feel free to reach out!
 
-
+Contact Info
+Email: shakib.sami2.0@gmail.com
+Portfolio: https://mdshakib.netlify.app/
+Phone: +8801700534241
 --------------------------------------------------------------------
 
 
