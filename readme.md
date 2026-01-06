@@ -62,6 +62,16 @@ Portfolio: https://mdshakib.netlify.app/ <br>
         <td><strong>Database</strong></td>
         <td>
           <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" />
+          <img src="https://img.shields.io/badge/-Pinecone-333333?style=flat&logo=pinecone" />
+        </td>
+      </tr>
+      <tr>
+        <td><strong>AI</strong></td>
+        <td>
+         <img src="https://img.shields.io/badge/-Google%20Gemini-333333?style=flat&logo=google-gemini&logoColor=white" alt="Google Gemini" />
+         <img src="https://img.shields.io/badge/-OpenAI-333333?style=flat&logo=openai&logoColor=white" alt="OpenAI" />
+         <img src="https://img.shields.io/badge/-LangChain-333333?style=flat&logo=langchain" />
+        </td>
         </td>
       </tr>
       <tr>
@@ -73,6 +83,8 @@ Portfolio: https://mdshakib.netlify.app/ <br>
           <img src="https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens" />
           <img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" />
           <img src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code" />
+          <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" />
+        </td>
         </td>
       </tr>
     </tbody>
