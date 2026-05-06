@@ -116,15 +116,12 @@ Portfolio: https://mdshakib.netlify.app/ <br>
   <a href="https://www.linkedin.com/in/mdshakibsami" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/mdshakibsami" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
+
+
   <a href="https://github.com/mdshakibsami" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  
   <a href="https://discord.com/users/1104363740444512378" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
   </a>
