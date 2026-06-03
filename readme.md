@@ -42,13 +42,14 @@ Portfolio: https://mdshakib.netlify.app/ <br>
       </tr>
       <tr>
         <td><strong>Frontend Technologies</strong></td>
-        <td>
-          <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5" />
-          <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3" />
-          <img src="https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss" />
-          <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" />
-          <img src="https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js" />
-        </td>
+       <td>
+  <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" />
+  <img src="https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/-Refine-333333?style=flat&logo=refinedev" />
+</td>
       </tr>
       <tr>
         <td><strong>Back-End Development</strong></td>
@@ -60,10 +61,13 @@ Portfolio: https://mdshakib.netlify.app/ <br>
       </tr>
       <tr>
         <td><strong>Database</strong></td>
-        <td>
-          <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" />
-          <img src="https://img.shields.io/badge/-Pinecone-333333?style=flat&logo=pinecone" />
-        </td>
+      <td>
+  <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" />
+  <img src="https://img.shields.io/badge/-Pinecone-333333?style=flat" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql" />
+  <img src="https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma" />
+  <img src="https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite" />
+</td>
       </tr>
       <tr>
         <td><strong>AI</strong></td>
