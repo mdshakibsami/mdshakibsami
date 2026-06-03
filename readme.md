@@ -88,6 +88,7 @@ Portfolio: https://mdshakib.netlify.app/ <br>
           <img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" />
           <img src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code" />
           <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" />
+           <img src="https://img.shields.io/badge/-Docker%20Compose-333333?style=flat&logo=docker" />
         </td>
         </td>
       </tr>
